@@ -8,29 +8,26 @@ Extract the "dat" folder and "default.xex" file on the root of the disc, replaci
 
 <b>What's Translated?</b>
 - Wrestler Names
-- Moves/Taunts (99%, couple of unknown string locations + refinement)
-- Loading Screen Tips (~80%)
+- Moves/Taunts
+- Loading Screen Tip
 - Wrestler Card Bios (~70%)
 - Wrestler Main Menu Mini Bios
-- Drama Menus (minus 1 problematic string)
-- Workout/Training Menus & Descriptions (Translated but needs refinement)
-- Drama Mode Mentor Names & Bios (Translated but needs refinement)
+- Drama Menus
+- Workout/Training Menus & Descriptions 
+- Drama Mode Mentor Names & Bios (Bios need to be re-written)
 - Drama Mode Fake Wrestlers Names & Bios
 - Match Type Menus
 - Ring Select Menu
 - Match Options Menu
 - Card Menu
 - Options Menu
-- CAW Menus & Items (Translated but needs refinement)
+- CAW Menus & Items
 - Questionnaire prior to CAW
-- Pause Menu (97%, couple of unknown string locations, and 1 problematic string)
+- Pause Menu
 - Tutorial
 - Help Text/Menu Descriptions
 
 <b>What's NOT Translated?</b>
-- Drama Mode Dialog
-- Fighting Style Types for CAW (unknown string locations)
-- Reversal Style Types for CAW (unknown string locations)
+- Drama Mode Dialog (Way text is coded for this section is completely different to the rest of the game)
 - Achievements (Unsure if it's safe to translate them)
 - Xbox Live menu (Unable to test this aspect, not sure how much is needed)
-- The remaining bits mentioned in previous list.
