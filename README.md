@@ -5,6 +5,9 @@ You will then need to extract the folders & files from the ISO before being able
 Download the .zip from the latest release.
 Extract the "dat" folder and "default.xex" file on the root of the disc, replacing your existing Wrestle Kingdom files.
 
+You can either then launch the .xex file from your modded 360 or using Xenia.
+Alternately, use one of these methods to repack the ISO:
+https://consolemods.org/wiki/Xbox:ISO_Extraction_%26_Repacking
 
 <b>What's Translated?</b>
 - Wrestler Names
