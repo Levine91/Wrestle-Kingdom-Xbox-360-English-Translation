@@ -19,7 +19,7 @@ https://consolemods.org/wiki/Xbox:ISO_Extraction_%26_Repacking
 <b>What's Translated?</b>
 - Wrestler Names
 - Moves/Taunts
-- Loading Screen Tip
+- Loading Screen Tips
 - Wrestler Card Bios (~70%)
 - Wrestler Main Menu Mini Bios
 - Drama Menus
