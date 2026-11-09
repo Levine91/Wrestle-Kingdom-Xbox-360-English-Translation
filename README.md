@@ -1,7 +1,7 @@
 # Wrestle Kingdom (Xbox 360) - English Translation
 
 I've been working on this on and off for the past 2 years.
-All text was edited by hand using a hex editor (ImHex)
+All text was edited by hand using a hex editor (ImHex).
 Edited tex graphics were through photoshop.
 Tested and working on a real Xbox 360 as well as Xenia.
 Only time AI was ever used was to recalculate pointers when renaming the moves in CAW, as there was hundreds that had to be changed for this alone.
